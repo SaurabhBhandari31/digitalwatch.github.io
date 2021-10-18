@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.main{
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+  text-align: center;
+}
+.heading{
+  color:red;
+  position: relative;
+  top: 30%;
+  font-family:'digital-clock-font';
+  font-size: 200px;
+}
+.pera{
+  color:red;
+  position: relative;
+  top: 30%;
+  font-family:'digital-clock-font';
+  font-size: 50px;
+
+}
